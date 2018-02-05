@@ -9,8 +9,7 @@
 import UIKit
 
 class ProjectDetailTableViewCell: UITableViewCell {
-// Hello world
-    //Con cec
+    
     @IBOutlet weak var itemPrice: UILabel!
     @IBOutlet weak var itemName: UILabel!
     override func awakeFromNib() {
